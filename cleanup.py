@@ -25,9 +25,9 @@ for entry in sorted:
     o.write("""		<dict>
 			<key>SKAdNetworkIdentifier</key>
 """)
-    o.write("\t\t\t")
+    o.write("\t\t\t<string>")
     o.write(entry)
-    o.write("\n		</dict>\n")
+    o.write("</string>\n		</dict>\n")
 
 
 o.close()
