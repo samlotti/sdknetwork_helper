@@ -1,0 +1,8 @@
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			mlmmfzh3r3.skadnetwork
+		</dict>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			mls7yz5dvl.skadnetwork
+		</dict>

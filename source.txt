@@ -1,0 +1,18 @@
+paste your section of the info plist here
+
+ex: 
+	<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>mlmmfzh3r3.skadnetwork</string>
+		</dict>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>mls7yz5dvl.skadnetwork</string>
+		</dict>
+
+		## A dup with a different case
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>Mls7yz5dvl.skadnetwork</string>
+		</dict>
+    
